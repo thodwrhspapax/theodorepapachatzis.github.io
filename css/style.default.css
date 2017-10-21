@@ -7,6 +7,7 @@ body {
 }
 .italic {
   font-style: italic;
+  style="text-align:center;"
 }
 .intro {
   position: relative;
