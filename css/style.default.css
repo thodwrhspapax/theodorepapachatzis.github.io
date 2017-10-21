@@ -5,9 +5,13 @@ html {
 body {
   height: 100%;
 }
+.italic1 {
+  font-style: italic;
+font-size: 20px;
+}
 .italic {
   font-style: italic;
-  
+
 }
 .intro {
   position: relative;
@@ -31,7 +35,8 @@ body {
 }
 @media (min-width: 992px) {
   .intro p {
-    font-size: 22px;
+
+    font-size: 30px;
   }
 }
 section {
@@ -87,7 +92,7 @@ section {
 .content {
   position: relative;
   width: 100%;
-  top: 50%;
+  top: 40%;
   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
